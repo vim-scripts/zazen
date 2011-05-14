@@ -3,3 +3,5 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=3413
 A very minimal dark/grey color scheme based on zenesque (vimscript#3340). Zazen only includes the dark version with slightly modified shades and minimal coloring. Shades and colors were adjusted to give priority to elements that might be regarded as more more important (although that might be different for different people).
 
 As zenesque, this is a GUI-only theme.
+
+Screenshot: http://img5.imageshack.us/i/zazen.png/
